@@ -13,7 +13,7 @@ const handler = async (m, { isOwner, isAdmin, conn, text, participants, args, co
   }
   const pesan = args.join` `;
   const oi = `*𝙀𝙏𝙄𝙌𝙐𝙀𝙏𝘼𝙎:* ${pesan}`;
-  let teks = `*ㅤㅤ⎈ : 𝙊𝘾𝙀𝘼𝙉 𝘾𝙊𝙍𝙋*\n     ┉┅━━━━━━━━━━┅┉ \n ${oi}\n\n➥ _*@aure.vp:*_\n`;
+  let teks = `*ㅤㅤ⎈ : 𝙊𝘾𝙀𝘼𝙉 𝘾𝙊𝙍𝙋*\n     ┉┅━━━━━━━━━━┅┉ \n ${oi}\n\n`;
   for (const mem of participants) {
     teks += `🌊⋆༘ @${mem.id.split('@')[0]}\n`;
   }
