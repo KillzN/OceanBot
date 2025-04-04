@@ -39,7 +39,7 @@
   <a href="/src/docs/README_pt-br.md">Português</a>
 </p> -->
 
-<p align="center">¡Ayuda a mantener nuestro proyecto activo con tu <a href="https://www.paypal.me/ineffablexmvrco">donación</a> y contribuye la mejora de las funciones del bot para todos!</p>
+<p align="center">¡Ayuda a mantener nuestro proyecto activo con tu <a href="https://www.paypal.me/ineffablexAurecita">donación</a> y contribuye la mejora de las funciones del bot para todos!</p>
 
 # Despliegue, Soporte y Comunidad
 - [Opciones de Despliegue](#opciones-de-despliegue)

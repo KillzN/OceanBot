@@ -16,47 +16,47 @@ global.isBaileysFail = false
 global.defaultLenguaje = 'es';
 
 global.owner = [
-  ['56983073328', '👑 Mvrco 👑', true],
-  ['56983073328', '💫 Mvrco 💫', true],
-  ['56983073328', '💫 Mvrco 💫', true],
-  ['56983073328', '💫 Mvrco 💫', true],
-  ['56983073328', '💫 Mvrco 💫', true],
-  ['56983073328', '💫 Mvrco 💫', true],
-  ['56983073328', '💫 Mvrco  💫', false],
-  ['56983073328', '💫 Mvrco 💫', true],
-  ['56983073328', '💫 Mvrco 💫', true],
-  ['56983073328', '💫 Mvrco 💫', true],
-  ['56983073328', '💫 Mvrco 💫', true],
-  ['56983073328', '💫 Mvrco 💫', true],
-  ['56983073328', '💫 Mvrco 💫', true],
-  ['56983073328', '💫 Mvrco ', true],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328']
+  ['529861009341', '👑 Aurecita 👑', true],
+  ['529861009341', '💫 Aurecita 💫', true],
+  ['529861009341', '💫 Aurecita 💫', true],
+  ['529861009341', '💫 Aurecita 💫', true],
+  ['529861009341', '💫 Aurecita 💫', true],
+  ['529861009341', '💫 Aurecita 💫', true],
+  ['529861009341', '💫 Aurecita  💫', false],
+  ['529861009341', '💫 Aurecita 💫', true],
+  ['529861009341', '💫 Aurecita 💫', true],
+  ['529861009341', '💫 Aurecita 💫', true],
+  ['529861009341', '💫 Aurecita 💫', true],
+  ['529861009341', '💫 Aurecita 💫', true],
+  ['529861009341', '💫 Aurecita 💫', true],
+  ['529861009341', '💫 Aurecita ', true],
+  ['529861009341'],
+  ['529861009341'],
+  ['529861009341'],
+  ['529861009341'],
+  ['529861009341'],
+  ['529861009341'],
+  ['529861009341'],
+  ['529861009341'],
+  ['529861009341'],
+  ['529861009341'],
+  ['529861009341'],
+  ['529861009341'],
+  ['529861009341'],
+  ['529861009341'],
+  ['529861009341'],
+  ['529861009341'],
+  ['529861009341'],
+  ['529861009341'],
+  ['529861009341'],
+  ['529861009341'],
+  ['529861009341'],
+  ['529861009341'],
+  ['529861009341']
 ];
 
-global.suittag = ['56983073328'];
-global.prems = ['56983073328'];
+global.suittag = ['529861009341'];
+global.prems = ['529861009341'];
 
 // API (INTERFAZ DE PROGRAMACIÓN DE APLICACIONES)
 global.BASE_API_DELIRIUS = "https://delirius-apiofc.vercel.app";
@@ -87,16 +87,16 @@ global.mes = d.toLocaleDateString('es', { month: 'long' });
 global.año = d.toLocaleDateString('es', { year: 'numeric' });
 global.tiempo = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true });
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nKILL - BOT`;
-global.gt = 'KILL - BOT';
-global.mysticbot = 'KILL - BOT';
+global.wm2 = `${dia} ${fecha}\n𝗢𝗖𝗘𝗔𝗡 - 𝗕𝗢𝗧`;
+global.gt = '𝗢𝗖𝗘𝗔𝗡 - 𝗕𝗢𝗧';
+global.mysticbot = '𝗢𝗖𝗘𝗔𝗡 - 𝗕𝗢𝗧';
 global.channel = 'https://chat.whatsapp.com/IAHpXVSTVbC7xk17kAqRzo';
-global.md = 'https://instagram.com/ineffable.mvrco';
-global.mysticbot = 'https://www.instagram.com/ineffable.mvrco';
+global.md = 'https://instagram.com/aure.vp';
+global.mysticbot = 'https://www.instagram.com/aure.vp';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '56983073328';
+global.nomorown = '529861009341';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';

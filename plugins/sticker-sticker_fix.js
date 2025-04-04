@@ -115,7 +115,7 @@ async function mp4ToWebp(file, stickerMetadata) {
       authTimeout: 0,
       cacheEnabled: false,
       useChrome: true,
-      killProcessOnBrowserClose: true,
+      OceanProcessOnBrowserClose: true,
       throwErrorOnTosBlock: false,
       chromiumArgs: [
         '--no-sandbox',

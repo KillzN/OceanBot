@@ -56,7 +56,7 @@ const handler = async (m, { conn, args }) => {
                     title: tradutor.texto1[0],
                     body: '𝙺𝙸𝙻𝙻 𝙱𝙾𝚃',
                     previewType: 0, thumbnail: fs.readFileSync('./src/assets/images/menu/languages/es/menu.png'),
-                    sourceUrl: `instagram.com/ineffable.mvrco`
+                    sourceUrl: `instagram.com/aure.vp`
                 }
             }
         }

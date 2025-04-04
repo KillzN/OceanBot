@@ -12,7 +12,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   const text = `${tradutor.texto1[0]}
 `.trim();
   const buttonMessage = {
-    'document': { url: `https://www.instagram.com/ineffable.mvrco` },
+    'document': { url: `https://www.instagram.com/aure.vp` },
     'mimetype': `application/${document}`,
     'fileName': `${tradutor.texto2[0]}`,
     'fileLength': 99999999999999,
@@ -21,13 +21,13 @@ const handler = async (m, { conn, usedPrefix }) => {
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://www.instagram.com/ineffable.mvrco',
+        'mediaUrl': 'https://www.instagram.com/aure.vp',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': tradutor.texto2[1],
         'body': wm,
         'thumbnail': imagen1,
-        'sourceUrl': 'https://www.instagram.com/ineffable.mvrco'
+        'sourceUrl': 'https://www.instagram.com/aure.vp'
       }
     },
     'caption': text,

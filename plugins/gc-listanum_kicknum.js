@@ -1,4 +1,4 @@
-/*              Codigo Creado Por Mvrco
+/*              Codigo Creado Por Aurecita
       (https://github.com/BrunoSobrino/TheMystic-Bot-MD)
 */
 
